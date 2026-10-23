@@ -112,6 +112,7 @@ em.accent, .accent { font-style: italic; color: var(--terra); }
 .stars { color: var(--gold); letter-spacing: 2px; font-size: .7rem; }
 .hero-media { position: relative; max-width: 420px; margin: 44px auto 0; }
 .hero-media .ph { aspect-ratio: 4 / 5; box-shadow: var(--shadow); border: 8px solid #fff; }
+.hero-video { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; box-shadow: var(--shadow); border: 8px solid #fff; background: var(--cream); }
 .tag-float {
   position: absolute; top: -14px; left: -10px; z-index: 3; background: #fff; border-radius: 999px;
   padding: 7px 14px; font-size: .74rem; font-weight: 600; color: var(--ink-soft);
